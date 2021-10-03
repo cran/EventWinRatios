@@ -1,0 +1,17 @@
+b282280d512984088b4328316ccf0414 *DESCRIPTION
+f768aad553d1fb8c9110013f8399975a *NAMESPACE
+834f570ef99162844b00df209d554a3e *NEWS.md
+3a364f0349ae21a74e88c04466a845fb *R/fn_ds.R
+cf5d4042db3d2ccb6b846688c77a52cc *R/fn_gephsim.R
+48ebed43c59699187d904654aa9061d5 *R/fn_glinsim.R
+9fd1a1841f42bb07ecc9018a487ad269 *R/fn_gmhat.R
+683f4533b4bfe5a595fd9f6a42655bdc *R/fn_wr.R
+aa69df555b9a040eae7e2f168b6701bf *R/print.wr.test.R
+9b36c66ae44d117843baf157edc7396e *R/wr.test.R
+5e69d7dd0bac254d1d0d182d8d101a56 *R/wr.test.default.R
+7d93cbc147273dfd3964261cf2e30986 *README.md
+cb5bc17f041e588aee20ce08681a0248 *data/SimuData.rda
+704fc267e077688527030437b409821f *man/EventWinRatios-package.Rd
+af8d2c23b479c0d18f129647015f9307 *man/SimuData.Rd
+8487ae2751d2d0ddb29267c103c8bc2c *man/wr.test-internal.Rd
+4c2380387afe275d0ee59854c6fd3bac *man/wr.test.Rd
