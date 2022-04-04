@@ -14,7 +14,7 @@ The function \code{wr.test} provides several confidence interval and testing pro
   \item Confidence intervals of the non-terminal and terminal events respectively
   \item Confidence intervals of linear combinations of the non-terminal and terminal events, with either pre-determined or data-driven weights
 }
-The full details for these procedures are available in Yang et al. (2021, preprint).
+The full details for these procedures are available in Yang et al. (2021).
 }
 \usage{
 \method{wr.test}{default}(yh, hcen, yd, dcen, z, lin = c(0.5, 0.5), alpha = 0.05, repnum = 1E6, ...)
@@ -64,9 +64,9 @@ Linear combination tests can be used to detect an overall effect, which is measu
 }
 
 \references{
-Yang, S., Troendle, J., Pak, D., and Leifer, E. Event-Specific Win Ratios for Inference with Terminal and Non-Terminal Events. 2021. Pre-print.
+Yang, S., Troendle, J., Pak, D., & Leifer, E. (2022). Event‐specific win ratios for inference with terminal and non‐terminal events. Statistics in medicine, 41(7), 1225-1241.
 
-Yang S and Troendle J. Event-specific win ratios and testing with terminal and non-terminal events. Clinical Trials. 2021;18(2):180-187.
+Yang, S., & Troendle, J. (2021). Event-specific win ratios and testing with terminal and non-terminal events. Clinical Trials, 18(2), 180-187.
 }
 
 \examples{

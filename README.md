@@ -5,7 +5,7 @@ output:
 ---
 # EventWinRatios
 
-This package provides several confidence interval and testing procedures using event-specific win ratios for semi-competing risks data with non-terminal and terminal events, as developed in Yang et al. (2021, preprint). The event-specific win ratios were introduced in Yang and Troendle (2021).
+This package provides several confidence interval and testing procedures using event-specific win ratios for semi-competing risks data with non-terminal and terminal events, as developed in Yang et al. (2021). The event-specific win ratios were introduced in Yang and Troendle (2021).
 
 The main function wr.test provides various confidence interval and testing procedures with event-specific win ratios:
 
@@ -62,6 +62,6 @@ print(result)
 ```
 
 ## Reference
-Yang, S., Troendle, J., Pak, D., and Leifer, E. Event-Specific Win Ratios for Inference with Terminal and Non-Terminal Events. 2021. Pre-print.
+Yang, S., Troendle, J., Pak, D., & Leifer, E. (2022). Event‐specific win ratios for inference with terminal and non‐terminal events. Statistics in medicine, 41(7), 1225-1241.
 
-Yang S and Troendle J. Event-specific win ratios and testing with terminal and non-terminal events. Clinical Trials. 2021;18(2):180-187.
+Yang, S., & Troendle, J. (2021). Event-specific win ratios and testing with terminal and non-terminal events. Clinical Trials, 18(2), 180-187.
